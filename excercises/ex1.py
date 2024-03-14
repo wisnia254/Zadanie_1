@@ -1,3 +1,5 @@
+import math
+
 a  = 4
 
 pole_kwadratu = a**2
@@ -12,3 +14,6 @@ h = 6
 pole_trojkata = (a*h)/2
 print("pole trojkata="+ str(pole_trojkata))
 
+r = 7
+pole_kola = round(math.pi*r**2,2)
+print("pole kola="+ str(pole_kola))
