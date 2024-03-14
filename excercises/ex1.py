@@ -6,4 +6,4 @@ print("pole kwadratu="+ str(pole_kwadratu))
 b = 5
 
 pole_prostokatu = a*b
-print("pole prostakatu="+ str(pole_proskatu))
+print("pole prostakatu="+ str(pole_prostokatu))
